@@ -16,4 +16,4 @@ Currently working on C++ and C# projects aimed at developing practical solutions
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/talal-altuwairiqi/) · [GitHub (https://github.com/TalalAltuwairiqi)
+[LinkedIn](https://www.linkedin.com/in/talal-altuwairiqi/) · [GitHub](https://github.com/TalalAltuwairiqi)
