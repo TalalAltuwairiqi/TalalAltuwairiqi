@@ -35,18 +35,28 @@ I am committed to continuous learning and building reliable, well-structured, an
 
 ---
 
-## Tech Stack
+## Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Database-334155?style=for-the-badge" alt="Database" />
+  <img src="https://img.shields.io/badge/Clean%20Code-334155?style=for-the-badge" alt="Clean Code" />
 </p>
 
 | Category | Skills |
 | :-- | :-- |
-| **Languages** | `C++` `C#` `SQL` `Java` |
-| **Framework** | `.NET` |
-| **Database** | `SQL Server` |
-| **Focus Areas** | Back-End Development, OOP, Data Structures and Algorithms, Database Design, Software Architecture |
+| **Languages** | `C#` `C++` `Java` `SQL` |
+| **Frameworks and Platforms** | `.NET` |
+| **Databases** | `SQL Server` |
+| **Tools** | `Visual Studio` `Git` `GitHub` |
+| **Practices** | Clean Code, OOP, Database Design, Data Structures and Algorithms, Software Architecture |
 | **Soft Skills** | Problem Solving, Critical Thinking, Project Planning, Project Management, Multitasking |
 
 ---
