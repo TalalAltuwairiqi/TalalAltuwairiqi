@@ -1,7 +1,7 @@
 <h1 align="center">Talal Altuwairiqi</h1>
 
 <p align="center">
-  <img src="profile.png" width="180" alt="Talal Altuwairiqi" />
+  <img src="talal-photo.png" width="180" alt="Talal Altuwairiqi" />
 </p>
 
 <h3 align="center">Senior Computer Science Student | Back-End Development | .NET | SQL</h3>
