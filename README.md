@@ -47,17 +47,20 @@ I am committed to continuous learning and building reliable, well-structured, an
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Database-334155?style=for-the-badge" alt="Database" />
-  <img src="https://img.shields.io/badge/Clean%20Code-334155?style=for-the-badge" alt="Clean Code" />
 </p>
 
-| Category | Skills |
-| :-- | :-- |
-| **Languages** | `C#` `C++` `Java` `SQL` |
-| **Frameworks and Platforms** | `.NET` |
-| **Databases** | `SQL Server` |
-| **Tools** | `Visual Studio` `Git` `GitHub` |
-| **Practices** | Clean Code, OOP, Database Design, Data Structures and Algorithms, Software Architecture |
-| **Soft Skills** | Problem Solving, Critical Thinking, Project Planning, Project Management, Multitasking |
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Code-334155?style=for-the-badge" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/OOP-334155?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-334155?style=for-the-badge" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Database%20Design-334155?style=for-the-badge" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-334155?style=for-the-badge" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-334155?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-334155?style=for-the-badge" alt="Critical Thinking" />
+  <img src="https://img.shields.io/badge/Project%20Planning-334155?style=for-the-badge" alt="Project Planning" />
+  <img src="https://img.shields.io/badge/Project%20Management-334155?style=for-the-badge" alt="Project Management" />
+  <img src="https://img.shields.io/badge/Multitasking-334155?style=for-the-badge" alt="Multitasking" />
+</p>
 
 ---
 
