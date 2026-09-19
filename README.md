@@ -1,5 +1,9 @@
 <h1 align="center">Talal Altuwairiqi</h1>
 
+<p align="center">
+  <img src="profile.png" width="180" alt="Talal Altuwairiqi" />
+</p>
+
 <h3 align="center">Senior Computer Science Student | Back-End Development | .NET | SQL</h3>
 
 <p align="center">
@@ -85,15 +89,6 @@ A **Customer Relationship Management (CRM)** backend-focused console application
 <p>
   <a href="YOUR-REPO-LINK"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
   <a href="YOUR-DEMO-LINK"><img src="https://img.shields.io/badge/Watch%20Demo-0A66C2?style=for-the-badge" alt="Demo" /></a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TalalAltuwairiqi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalAltuwairiqi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
