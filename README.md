@@ -96,7 +96,7 @@ A **Customer Relationship Management (CRM)** backend-focused console application
 - File-based data handling
 - Modular design
 
-**Skills used:** `Backend Development` `C++` `Software Architecture`
+**Skills used:** `Backend Development` `C++` `Software Architecture` `OOP` 
 
 <p>
   <a href="https://github.com/TalalAltuwairiqi/Console_Based-CRM-System"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
