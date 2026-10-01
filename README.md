@@ -102,7 +102,41 @@ A **Customer Relationship Management (CRM)** backend-focused console application
   <a href="https://github.com/TalalAltuwairiqi/Console_Based-CRM-System"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
 
 </p>
+### Console-Based CRM System
 
+A **Customer Relationship Management (CRM)** backend-focused console application built in **C++**, designed to manage customer data and system users while enforcing role-based access control and structured program logic. Implemented from scratch with a modular design and file-based data handling.
+
+**Key Features**
+- Customer data management
+- System user management
+- Role-based access control
+- File-based data handling
+- Modular design
+
+**Skills used:** `Backend Development` `C++` `Software Architecture` `OOP` `Problem Solving`
+
+<p>
+  <a href="https://github.com/TalalAltuwairiqi/Console_Based-CRM-System"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<br />
+
+### Online Store Database
+
+A **relational database for an online store**, designed and implemented using **Microsoft SQL Server**. The project focuses on structured data modeling, relationships between entities, and database design for an e-commerce system.
+
+**Key Features**
+- Relational database design
+- Customers, products, orders, and related entities
+- Primary and foreign key relationships
+- Structured data organization
+- SQL Server database implementation
+
+**Skills used:** `SQL` `Microsoft SQL Server` `Database Design` `Relational Databases` `Data Modeling`
+
+<p>
+  <a href="https://github.com/TalalAltuwairiqi/Online-Store-Database"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
 ---
 
 ## Contact Me
